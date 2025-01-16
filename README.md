@@ -1,7 +1,7 @@
 # Image-Generator-Using-Custom-GANs
 
 ## Research Paper:
-[Custom GAN](Question 2.pdf)
+[Resesearch Paper](Question 2.pdf)
 
 
 ## Project Overview 
