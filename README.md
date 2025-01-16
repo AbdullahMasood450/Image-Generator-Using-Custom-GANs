@@ -1,7 +1,8 @@
 # Image-Generator-Using-Custom-GANs
 
 ## Research Paper:
-![Resesearch Paper](Question 2.pdf)
+[Report](Question2.pdf)
+
 
 
 ## Project Overview 
@@ -11,11 +12,11 @@ This project implements a Custom GAN using the CIFAR-10 dataset, focusing on gen
 Programming Language: Python 
 
 ## Libraries 
-PyTorch: For Building the GAN Model
+PyTorch: For Building the GAN Model <br>
 matplotlib : For Graps 
 
 ## Techniques Used 
-Generator : For Image Generation
+Generator : For Image Generation <br>
 Discriminator: For Computing Similarity Score 
 
 ## Setup and Installination 
