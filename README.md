@@ -1,7 +1,7 @@
 # Image-Generator-Using-Custom-GANs
 
 ## Research Paper:
-[Report](Question2.pdf)
+[Report](Report.pdf)
 
 
 
